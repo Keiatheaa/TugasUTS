@@ -10,7 +10,7 @@ android {
     defaultConfig {
         applicationId = "com.example.tugasuts"
         minSdk = 35
-        targetSdk = 35
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
